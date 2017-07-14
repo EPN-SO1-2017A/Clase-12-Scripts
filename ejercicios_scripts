@@ -1,0 +1,47 @@
+crear un usuario con nombre usuario1
+
+dentro del directorio personal usuario1 crear la estructura de directorios
+    clases
+        ejercicios
+            ejercicio1.txt
+            ejercicio2.txt
+        deberes
+            deber1.txt
+            deber2.txt
+    fotos
+        enero
+        febrero
+
+
+Asegurarse que todos los directorios pertenecen al usuario1
+
+Hacer que el contenido del directorio fotos pueda ser visto unicamente por el propietario usuario1
+
+Dentro de clases crear los directorios 2017A y 2017B
+
+Mover los directorios ejercicios y deberes dentro de 2017A
+
+Crear el fichero notas.txt dentro de 2017A
+
+Copiar todo el contenido de 2017A al directorio 2017B
+
+clases
+    2017A
+        ejercicios
+            ejercicio1.txt
+            ejercicio2.txt
+        deberes
+            deber1.txt
+            deber2.txt
+        notas.txt
+    2017B
+        ejercicios
+            ejercicio1.txt
+            ejercicio2.txt
+        deberes
+            deber1.txt
+            deber2.txt
+        notas.txt
+    fotos
+        enero
+        febrero
